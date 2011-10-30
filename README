@@ -1,0 +1,7 @@
+The main task of this module is to copy the POST contents and send them 
+to a RabbitMQ server for later checking by Spam-Assasin and marking the 
+IPs as bad posters.
+
+This module is based on the mod_form by Nick Kew <nick@webthing.com>.
+
+
